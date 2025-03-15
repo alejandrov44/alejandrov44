@@ -1,16 +1,67 @@
-### Hi there 👋
+# Alejandro Viana - alejandrov44 👋
 
-<!--
-**alejandrov44/alejandrov44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/build-passed-green)
+![](https://img.shields.io/badge/Status-up-green)
+![](https://img.shields.io/badge/Uptime-99.9%25-yellowgreen)
+![](https://img.shields.io/badge/License-none-yellow)
 
-Here are some ideas to get you started:
+Full-Stack developer of little side-projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ Summary
+
+- **Website**: https://alejandrov44.pages.dev/
+- **Birthday**: June 18th, 1998
+- **Location**: Barcelona, Spain
+- **Love**: Read Manga 📖
+- **Like**: Use Computer 🖥️ / Develop 👨‍💻 / Play Videogames 🎮
+
+## 👨‍💻 Works
+
+- 🔔 **[alejandrov44/free-games-alerts](https://github.com/alejandrov44/free-games-alerts)** - Quick and easy way to get notified from all kind of new free games available from different platforms to claim.
+- 🏎️ **[alejandrov44/LS_Racing](https://github.com/alejandrov44/LS_Racing)** - Simple racing simulator game written in C, using the Allegro 5 library for graphics and input.
+- 📓 **[alejandrov44/portfolio](https://github.com/alejandrov44/portfolio)** - My personal portfolio project! Showcases my work, skills, and experiences in development.
+- 🔧 **[alejandrov44/eslint-config](https://github.com/alejandrov44/eslint-config)** - A shareable ESLint config used by alejandrov44.
+
+### 🧰 Tools that i used
+
+- JavaScript:
+
+![JavascriptSkills](https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,html,css,react,express,nestjs,prisma)
+- Python:
+
+![PythonSkills](https://skillicons.dev/icons?i=python,tensorflow,pytorch)
+
+- C
+
+![CSkills](https://skillicons.dev/icons?i=c,cpp,cmake,arduino,clion)
+
+- PHP
+
+![PHPSkills](https://skillicons.dev/icons?i=php,symfony)
+
+- DDBB
+
+![DDBBSkills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
+
+- Others
+
+![OthersSkills](https://skillicons.dev/icons?i=docker,jenkins,jest,git,github,npm,figma)
+
+## 🔗 Links
+
+- **npm**: [alejandrov44](https://www.npmjs.com/~alejandrov44)
+
+## 📧 Contact Me
+
+- 📧 **E-mail**: `alejandrovianalaba@gmail.com`
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/alejandro-viana/)
+- 💬 [Discord](https://discord.gg/yGMknyc9)
+- 📱 [Twitter](https://twitter.com/avl44)
+- 📷 [Instagram](https://www.instagram.com/alejandrov44/)
+- 🎮 [Steam](https://steamcommunity.com/id/alejandrov44)
+
+## 📜 License
+
+This repository (README.md, etc.) is licensed under the [MIT License](LICENSE).
+
+You may use it as a reference when creating your own profile README.md. Please create a better README profile that describes you!
