@@ -1,9 +1,9 @@
 # Alejandro Viana - alejandrov44 👋
 
-![](https://img.shields.io/badge/build-passed-green)
-![](https://img.shields.io/badge/Status-up-green)
+![](https://img.shields.io/badge/Build-Passed-green)
+![](https://img.shields.io/badge/Status-Up-green)
 ![](https://img.shields.io/badge/Uptime-99.9%25-yellowgreen)
-![](https://img.shields.io/badge/License-none-yellow)
+![](https://img.shields.io/badge/License-MIT-yellow)
 
 Full-Stack developer of little side-projects.
 
@@ -22,30 +22,37 @@ Full-Stack developer of little side-projects.
 - 📓 **[alejandrov44/portfolio](https://github.com/alejandrov44/portfolio)** - My personal portfolio project! Showcases my work, skills, and experiences in development.
 - 🔧 **[alejandrov44/eslint-config](https://github.com/alejandrov44/eslint-config)** - A shareable ESLint config used by alejandrov44.
 
-### 🧰 Tools that i used
+## 🧰 Tools that i've used
 
-- JavaScript:
+<h3 align="center">JavaScript</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,html,css,react,express,nestjs,prisma" />
+</p>
 
-![JavascriptSkills](https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,html,css,react,express,nestjs,prisma)
-- Python:
+<h3 align="center">Python</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
-![PythonSkills](https://skillicons.dev/icons?i=python,tensorflow,pytorch)
+<h3 align="center">C</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,arduino,clion" />
+</p>
 
-- C
+<h3 align="center">PHP</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=php,symfony" />
+</p>
 
-![CSkills](https://skillicons.dev/icons?i=c,cpp,cmake,arduino,clion)
+<h3 align="center">DDBB</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
 
-- PHP
-
-![PHPSkills](https://skillicons.dev/icons?i=php,symfony)
-
-- DDBB
-
-![DDBBSkills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
-
-- Others
-
-![OthersSkills](https://skillicons.dev/icons?i=docker,jenkins,jest,git,github,npm,figma)
+<h3 align="center">Other</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=docker,jenkins,jest,git,github,npm,figma" />
+</p>
 
 ## 🔗 Links
 
