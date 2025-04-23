@@ -5,6 +5,8 @@
 ![](https://img.shields.io/badge/Uptime-99.9%25-yellowgreen)
 ![](https://img.shields.io/badge/License-MIT-yellow)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Building+ideas+into+code%2C;One+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 Full-Stack developer of little side-projects.
 
 ## 🙋‍♂️ Summary
