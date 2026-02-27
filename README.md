@@ -22,7 +22,7 @@ Full-Stack developer of little side-projects.
 - 🔔 **[alejandrov44/free-games-alerts](https://github.com/alejandrov44/free-games-alerts)** - Quick and easy way to get notified from all kind of new free games available from different platforms to claim.
 - 🏎️ **[alejandrov44/LS_Racing](https://github.com/alejandrov44/LS_Racing)** - Simple racing simulator game written in C, using the Allegro 5 library for graphics and input.
 - 📓 **[alejandrov44/portfolio](https://github.com/alejandrov44/portfolio)** - My personal portfolio project! Showcases my work, skills, and experiences in development.
-- 🔧 **[alejandrov44/eslint-config](https://github.com/alejandrov44/eslint-config)** - A shareable ESLint config used by alejandrov44.
+- 🔧 **[alejandrov44/eslint-config](https://github.com/alejandrov44/eslint-config)** - A shareable ESLint config used by me.
 
 ## 🧰 Tools that i've used
 
